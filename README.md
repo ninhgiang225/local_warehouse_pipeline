@@ -1,3 +1,11 @@
+# TL;DR
+
+This dataset covers 415K consumer financial complaints filed between January 2023 and February 2026 across 68
+companies, 14 product categories, and 62 states/territories. The data is clean, well-structured, and ready for cosumer complaints
+analysis
+
+* Access executive summary here 👉 [link](https://github.com/ninhgiang225/local_warehouse_pipeline/blob/main/notebooks/issue_pattern_and_root_cause_analysis/Consumer%20Financial%20Complaints%20%E2%80%94%20EDA%20Summary.pdf)
+
 # Local Data Warehouse
 
 A local-first Data Wareouse pipeline that extracts CFPB consumer complaint data, transforms it with dbt into analytics-ready models, and serves interactive dashboards—all running on your laptop with zero cloud dependencies.
@@ -12,6 +20,7 @@ A local-first Data Wareouse pipeline that extracts CFPB consumer complaint data,
 
 <img src="https://github.com/user-attachments/assets/1b4e8d7b-0527-4fdc-b104-562cf0c3efa6" alt="Architecture Diagram" style="width: 100%; height: auto;" />
 
+(https://github.com/ninhgiang225/local_warehouse_pipeline/blob/main/notebooks/issue_pattern_and_root_cause_analysis/Consumer%20Financial%20Complaints%20%E2%80%94%20EDA%20Summary.pdf)
 ## 1. Quick Start
 
 ### 1.1 Setup
